@@ -8,11 +8,21 @@ box-shadow:  20px 20px 60px #3d3c3c,
              -20px -20px 60px #535252; */
 }
 
+h2{
+    font-weight: bolder;
+    text-align: center;
+    background: #333333;
+    color: #dde1e7;
+    font-size: 3em;
+    padding: 1em;
+
+}
+
 .container{
     display: flex;
     justify-content: center;
-    padding-bottom: 6em;
-    padding-top: 6em;
+     padding-bottom: 1.5em; 
+    /* padding-top: 6em; */
     /* margin-top: 6em; */
 
     /* border-radius: 50px; */
