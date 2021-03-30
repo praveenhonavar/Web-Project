@@ -1,0 +1,47 @@
+body{
+    background-color:black;
+    color: white;
+    text-align:center;
+    /*align: center;*/
+}
+
+h1,h2,h4{
+    color: gray;
+}
+
+#password{
+    padding:5px;
+}
+
+#validate{
+    padding: 5px;
+    background-color: gray;
+    color:white;
+    border: solid white 1px;
+    cursor: pointer;
+}
+
+#validate:hover{
+    background-color:black;
+    color: gray;
+    border: solid gray 1px;
+}
+
+ul{
+    color:gray;
+    font-size: 18px;
+    display: inline-block;
+    text-align: left;
+    margin: 0px;
+}
+
+#valid{
+        color:rgba(47,102,16,1);
+
+}
+
+#invalid{
+        color: rgba(227,63,32,1);
+
+    
+}
