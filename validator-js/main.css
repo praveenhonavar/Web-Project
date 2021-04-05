@@ -2,6 +2,8 @@ body{
     background-color:black;
     color: white;
     text-align:center;
+    font-family: 'Montserrat', sans-serif;
+
     /*align: center;*/
 }
 
@@ -10,11 +12,13 @@ h1,h2,h4{
 }
 
 #password{
-    padding:5px;
+    border-radius: 5em;
+    padding:10px;
 }
 
 #validate{
-    padding: 5px;
+    border-radius: 5em;
+    padding: 10px;
     background-color: gray;
     color:white;
     border: solid white 1px;
