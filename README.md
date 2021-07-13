@@ -24,3 +24,9 @@
 <a href="https://validator-js.netlify.app/">
 
 ↗ Validator 
+  
+# Secure Share Landing Page
+  
+<a href="https://secure-share-ai.netlify.app/">
+
+↗ Secure Share
